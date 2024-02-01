@@ -11,3 +11,5 @@ The page includes **detailed descriptions** and **images** of each region, such 
 The page is styled using the **Pico CSS framework**, a minimalist and responsive framework for modern web design. 🎨
 
 The **navigation bar** includes links to the author’s **GitHub profile** and a **related YouTube video** that shows some of the amazing scenery of Romania. 🎥
+
+![image](https://github.com/bogdancojan/hiking_brochure/assets/97395202/f9557f3a-c48e-44e1-9762-1def41f6ae5f)
